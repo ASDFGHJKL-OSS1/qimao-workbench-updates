@@ -1,20 +1,19 @@
 {
   "schema": 1,
   "product": "qimao-prompt-workbench",
-  "version": "1.10.9",
+  "version": "1.10.10",
   "channel": "stable",
-  "published_at": "2026-11-10T06:48:02.704049+00:00",
+  "published_at": "2026-11-10T07:15:12.870872+00:00",
   "notes": [
-    "新增06视频深度复刻：拖入本地视频，或粘贴谱码作品链接下载到工作区。",
-    "支持原片预览、起止区间、删除中段与多段拼接，生成独立剪辑预览；原视频保留。",
-    "剪后视频逐帧深度分析并适配所选提示词，展示真实帧、原片时间映射及实际采用位置。",
-    "复刻稿继续保护台词、画风、资产和剧情，独立审核后检查完整稿与差异，确认后才回填。",
-    "支持200MB、10分钟以内的视频；用于复刻的保留区间合计最多60秒。",
-    "刷新页面恢复上次的视频和保留区间，可继续剪辑与复刻。"
+    "小七助手升级：换成白绒毛头、绿色身体、大眼睛与触角的七仔卡通形象，保留拖动、语音和提醒。",
+    "新增工作台体检：读取本机真实任务，显示异常、待审稿、运行中与已核验记录，定位失败片段、原始错误及下一步。",
+    "聊天回答支持实际操作卡，可查看任务和差异、继续未完成优化、进入05单片段修改或06视频深度复刻。",
+    "助手可结合原稿、候选、前后片段、独立审核和视频采用证据，05/06跟随实际选择来源，操作问题按需加载上下文。",
+    "操作卡点击前重新核验任务与稿件；旧卡、隐藏记录、未保存修改及忙碌状态均拦截。回填仍先检查完整稿、差异并人工确认。"
   ],
-  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.9-stable.zip",
-  "sha256": "30e179a859fc056a82e61c62bd8844f394ac086e5517b4490decb034393a8e12",
-  "size": 254268,
-  "request_id": "661b33f02bd3412d82ffcdeaf2c66412",
-  "signature": "4f6hO/5bysN0A1kUFaASf+6XaWtXKDAhyu0mbtcqgzHwchBDAZ0wiloJlFtL+WvasDSYI7a3AS+4M4xt8cCQBA=="
+  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.10-stable.zip",
+  "sha256": "62350c521ea3f583a108e737e11a12b7965399392564956d1be0c6199eb2e00d",
+  "size": 267641,
+  "request_id": "471e983d3735413faa56c3f0dd295811",
+  "signature": "HIR5MGD/Lr0x/sHJ0ZuzLEGuW24GJtx+ncKpl953uVq9kVL23HhAbfEQNtTd5d24HN+pwveHf1t+5eThMGyoDw=="
 }
