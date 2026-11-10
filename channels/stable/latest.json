@@ -1,15 +1,18 @@
 {
   "schema": 1,
   "product": "qimao-prompt-workbench",
-  "version": "1.10.6",
+  "version": "1.10.7",
   "channel": "stable",
-  "published_at": "2026-11-10T05:55:46.961101+00:00",
+  "published_at": "2026-11-10T06:06:04.872440+00:00",
   "notes": [
-    "管理员更新工作台程序；本机项目与历史数据保留。"
+    "新增谱码高光视频参考：自动识别打斗、施法、变身与追逐，按相容动作筛选真实视频并逐帧分析。",
+    "片段内可查看来源、真实帧、时间点及实际采用位置；支持自动识别、关闭或主动寻找。",
+    "参考沿用台词、画风、资产、动作结果与独立审核保护；无合适参考或读取失败如实显示。",
+    "修复没有程序修改也能发布新版本的问题；本机项目与历史数据保留。"
   ],
-  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.6-stable.zip",
-  "sha256": "b82737a22164840d58df12ed8a732fceb62524755e608061a41433bd579f754d",
-  "size": 228470,
-  "request_id": "0f7078616b404fcf82c1af53840c1ade",
-  "signature": "U4DSWnRtOAhxZJ1/XTh5o015bhMITt3/97v5rMYQhtntt6OXtaDiLFHWyNoRiJ58gzE1gODGY+iuNTqNh3OUCg=="
+  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.7-stable.zip",
+  "sha256": "799e30e98f3a34bd1462f60e18d03c96b6f218efdfc02c343de206b1eb7ce554",
+  "size": 231365,
+  "request_id": "2ed15aa536b1405d947e16e72aca9431",
+  "signature": "uQ69j+NxexpH9j3qXKTwpaauFi+ePvp4vHzM8iLCpYg6Gq+PnbkU2KhirnGAIrn8VU7+Lm9i2yfFg3o1hb7QAg=="
 }
