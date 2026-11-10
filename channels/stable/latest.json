@@ -1,19 +1,19 @@
 {
   "schema": 1,
   "product": "qimao-prompt-workbench",
-  "version": "1.10.10",
+  "version": "1.10.11",
   "channel": "stable",
-  "published_at": "2026-11-10T07:15:12.870872+00:00",
+  "published_at": "2026-11-10T07:35:54.354741+00:00",
   "notes": [
-    "小七助手升级：换成白绒毛头、绿色身体、大眼睛与触角的七仔卡通形象，保留拖动、语音和提醒。",
-    "新增工作台体检：读取本机真实任务，显示异常、待审稿、运行中与已核验记录，定位失败片段、原始错误及下一步。",
-    "聊天回答支持实际操作卡，可查看任务和差异、继续未完成优化、进入05单片段修改或06视频深度复刻。",
-    "助手可结合原稿、候选、前后片段、独立审核和视频采用证据，05/06跟随实际选择来源，操作问题按需加载上下文。",
-    "操作卡点击前重新核验任务与稿件；旧卡、隐藏记录、未保存修改及忙碌状态均拦截。回填仍先检查完整稿、差异并人工确认。"
+    "修复重新输入管理员密码后，尚未发布的程序修改被误判为没有修改的问题。",
+    "程序发布基线保存在本机，权限到期、重新登录或服务重启后继续识别待发布改动；安装新版按签名程序切换基线。",
+    "只有公网确认上线才标记该次修改已发布；发布失败可保留改动重试。",
+    "管理员面板明确显示维护、忙碌、待发布、已上线和无需重复发布的原因，并显示本次权限到期时间。",
+    "管理员权限仍为1小时，工作台重启后重新验证身份；普通用户检查、下载和安装更新无需密码。"
   ],
-  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.10-stable.zip",
-  "sha256": "62350c521ea3f583a108e737e11a12b7965399392564956d1be0c6199eb2e00d",
-  "size": 267641,
-  "request_id": "471e983d3735413faa56c3f0dd295811",
-  "signature": "HIR5MGD/Lr0x/sHJ0ZuzLEGuW24GJtx+ncKpl953uVq9kVL23HhAbfEQNtTd5d24HN+pwveHf1t+5eThMGyoDw=="
+  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.11-stable.zip",
+  "sha256": "e72d9dbdc7e24ca13658904ab1d7eccb1b8931b1ca001f0233c0a19a063b91c1",
+  "size": 270382,
+  "request_id": "1bdec71001d7492884ae8e93873082e2",
+  "signature": "IF3HhCJ8CwcmoBf1aLAncidlT7znLVZNBgSIGs0uZSMGXMPO5w2ZOCcmQEFGnKyU03DdTxxq23WtS+P1iolbBQ=="
 }
