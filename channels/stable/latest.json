@@ -1,14 +1,15 @@
 {
   "schema": 1,
   "product": "qimao-prompt-workbench",
-  "version": "1.10.3",
+  "version": "1.10.4",
   "channel": "stable",
-  "published_at": "2026-11-10T02:58:21.643314+00:00",
+  "published_at": "2026-11-10T03:40:02.497564+00:00",
   "notes": [
-    "工作台功能更新；保留本机项目、提示词和历史记录。"
+    "管理员更新工作台程序；本机项目与历史数据保留。"
   ],
-  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.3-stable.zip",
-  "size": 9673252,
-  "sha256": "aeac7fe9506f529f7483ef7533258a175c2aa2af6e0760730d7499671e3e0ef4",
-  "signature": "LmNC+ayQ/9ZDc1u9OBQ9+NKwdG3gluyAGXHWgrMi98E7fcS8iU6xH2a5AiiynRsi/RevaxrTkAATokovdIGtDA=="
+  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.4-stable.zip",
+  "sha256": "3750a5f0ee0e79dde3f75f0332f64ffd128a5a8e5be3da02f701cd17b1968516",
+  "size": 212304,
+  "request_id": "b66baecf727a4a279fdb9604538930f1",
+  "signature": "VvQvomTQFsML1dygmtAfmATSPNgseT/prtqeJ5hG13hcxXG7Dk65kPoXEEbElG5loum2hUQPQWbuqhuqLGjcAA=="
 }
