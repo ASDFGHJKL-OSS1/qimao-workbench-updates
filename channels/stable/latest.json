@@ -1,33 +1,14 @@
 {
   "schema": 1,
   "product": "qimao-prompt-workbench",
-  "version": "1.10.1",
+  "version": "1.10.2",
   "channel": "stable",
-  "published_at": "2026-10-31T07:33:34.243697+00:00",
+  "published_at": "2026-11-10T02:53:24.022574+00:00",
   "notes": [
-    "1.10.1",
-    "- 修复独立审核issues返回对象时崩溃并跳过自动修复的问题；格式异常保留真实反馈，重新独立核对，最多3次。",
-    "- 批量优化仍有失败片段时显示需修复状态、具体片段号及原因。",
-    "1.10.0 · 批量回填",
-    "批量进度新增待回填多选、全选/清空和统一检查确认窗口，支持各集完整稿与差异预览。",
-    "全部所选集先校验平台版本，再按集数和片段原序保存、重读核验；已核验集数跳过。",
-    "异常暂停后续集，保留断点与用户授权，恢复时不重复优化或重复提交。",
-    "包含1.9.1暂时服务错误自动重试修复。",
-    "1.9.1 · 暂时服务错误自动恢复",
-    "修复Service Unavailable等英文服务错误未进入自动重试的问题，兼容网关超时、限流与HTTP暂时故障。",
-    "读取失败的批量卡片准确显示未完成、停止或自动重试状态。",
-    "1.9.0 · 多集并发优化",
-    "首页新增单集/多集切换、真实集数多选与范围快捷选择。",
-    "支持同时处理1—3集，每集独立备份、调用必用技能、审核和保留断点。",
-    "新增批次进度、查看片段、停止本批和继续未完成集数；失败互不打断。",
-    "服务中断按批次恢复；已完成段不重做，回填仍需逐集检查确认。",
-    "缺少分区标记自动识别并补齐，保留原稿备份与风格文字。",
-    "新增自动诊断、按反馈修复与异常重试，每轮最多3次。",
-    "服务意外中断后接续断点，已完成片段保留，回填响应丢失先核验避免重复写入。",
-    "主动停止持久化保留，权限和外部版本冲突明确提示处理。"
+    "工作台功能更新；保留本机项目、提示词和历史记录。"
   ],
-  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/qimao-workbench-1.10.1-stable.zip",
-  "size": 9672784,
-  "sha256": "72a0406b4864aa11784c14538ef726805be3f3ef72f8f349d68d129a7088f4a0",
-  "signature": "7xcsUSF/pc0T/KotYNb2k8MFA6p846nUwj3fo40hnyA1OT3EHLyWBasgu5F5cicbnC4V0E93gtKavklVNEunAQ=="
+  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.2-stable.zip",
+  "size": 9673355,
+  "sha256": "e0dbd1fd9510440e72b0db457cccbe780fc97a0ecffe71042f0033308a0af223",
+  "signature": "QZLr/TuRFwyPQl+DnLhvac51Ygx6TC0kg0rxdhaXGvMGnRCEhTUAxyeGppn5bxHs6gJZarAenbAQ3hDWHfw2CA=="
 }
