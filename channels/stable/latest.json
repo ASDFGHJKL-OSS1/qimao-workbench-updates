@@ -1,18 +1,18 @@
 {
   "schema": 1,
   "product": "qimao-prompt-workbench",
-  "version": "1.10.12",
+  "version": "1.10.13",
   "channel": "stable",
-  "published_at": "2026-11-10T07:50:46.235620+00:00",
+  "published_at": "2026-11-11T08:12:50.595809+00:00",
   "notes": [
     "管理员登录持续保持：取消1小时自动到期，升级与工作台重启后自动恢复。",
     "管理员凭据保存在本机macOS系统钥匙串，不保存管理员密码，不随程序更新分发。",
     "新增“退出管理员”按钮，主动退出后清除本机登录；再次启动仍为普通用户，待发布改动保留。",
     "保留程序修改稳定2分钟、工作台空闲后自动发布，也可点击立即发布；普通用户仍只需检查、下载和安装更新。"
   ],
-  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.12-stable.zip",
-  "sha256": "77dd3959f432e93da8b38fbaaddccd0951ffb9ec551af0db4e5be3ff2e971761",
-  "size": 273451,
-  "request_id": "dbcdc37f400545ad9f01658fe863d25e",
-  "signature": "goupCh61j1OEJOiTBu/z+lygHJyLF9L8cWa1Je0ptjc/YuCj64v/4L2n7183q4Dti+Ro50In+YqBgFAtbMOlDA=="
+  "package_url": "https://asdfghjkl-oss1.github.io/qimao-workbench-updates/packages/qimao-workbench-1.10.13-stable.zip",
+  "sha256": "f98eca49c8f2f3f514476652779df9ac086cb901a888c94a2786c34a947a44ce",
+  "size": 276096,
+  "request_id": "935ad5e587fb47888b6c798c4e185191",
+  "signature": "76L002Ug/goKT85vfpKqypo/u8A1ARRRTQH/AzG/e3SlcFUjQ0UjVbx1l4PfsDtgCn/hhZuEtzVvu63vnxg7Aw=="
 }
